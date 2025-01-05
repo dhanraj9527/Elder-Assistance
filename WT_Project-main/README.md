@@ -130,7 +130,7 @@ The Health First web application relies on the following dependencies:
 1. Clone the repository.
 
    ```bash
-    git clone https://github.com/dhanraj9527/Elder-Assistance/edit/master/WT_Project-main
+    git clone https://github.com/dhanraj9527/Elder-Assistance
     
    ```
 
