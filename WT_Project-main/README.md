@@ -52,9 +52,6 @@ Health First is specifically designed for elderly individuals, offering a user-f
 - Includes a BMI calculator to help users assess their body mass index.
 - Instantly informs users about whether they are normal, overweight, or underweight.
 
-## Live Demo
-
-Visit the live demo of the application at [https://elderly-health.netlify.app/](https://elderly-health.netlify.app/)
 
 ## Screenshots
 
