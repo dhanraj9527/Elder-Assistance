@@ -133,8 +133,8 @@ The Health First web application relies on the following dependencies:
 1. Clone the repository.
 
    ```bash
-    git clone https://github.com/kirteshmaskey/health-first.git
-    cd health-first
+    git clone https://github.com/dhanraj9527/Elder-Assistance/edit/master/WT_Project-main
+    
    ```
 
 2. Install dependencies.
@@ -168,16 +168,4 @@ The Health First web application relies on the following dependencies:
     http://localhost:3000
    ```
 
-## Issues and Contributions
 
-If you encounter any issues with the Health First web application or have suggestions for improvements, feel free to raise an issue on the [GitHub repository](https://github.com/kirteshmaskey/health-first/issues). 
-
-If you'd like to contribute to the project, you can follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
-3. Implement your changes and commit them: `git commit -m "Description of changes"`.
-4. Push your changes to the branch: `git push origin feature-name`.
-5. Open a pull request on the [GitHub repository](https://github.com/kirteshmaskey/health-first/pulls) with a detailed description of your changes.
-
-Your contributions are highly appreciated! Together, we can make Health First even better.
